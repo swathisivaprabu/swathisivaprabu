@@ -8,19 +8,16 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=swathisivaprabu.swathisivaprabu&"  />
-</div>
-
-###
-
 <p align="left">I'm Swathi, a student at SASTRA University, learning how to turn caffeine and chaos into clean code.  <br><br>🎓 Major in Computer Science & Engineering   <br>🌱 Currently exploring AI agents, web apps,Machine Learning<br>🧠 Favorite bug-fix method: Comment it out and hope for the best</p>
 
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/swathi-sivaprabu-b97840300?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn Badge" style="margin-right: 10px;" />
+  </a>
 </div>
+
 
 ###
 
