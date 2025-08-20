@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I'm Swathi, a student at SASTRA University, learning how to turn caffeine and chaos into clean code.  <br><br>🎓 Major in Computer Science & Engineering   <br>🌱 Currently exploring AI agents, Web Applications,Machine Learning<br>🧠 Favorite bug-fix method: Comment it out and hope for the best</p>
+<p align="left">I'm Swathi, a Computer Science Student, learning how to turn caffeine and chaos into clean code.  <br><br>🎓 Major in Computer Science & Engineering   <br>🌱 Currently exploring AI agents, Web Applications,Machine Learning<br>🧠 Favorite bug-fix method: Comment it out and hope for the best</p>
 
 ###
 
