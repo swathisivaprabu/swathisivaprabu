@@ -5,7 +5,7 @@
 
 ###
 
-<p align="left">I'm Swathi, a Computer Science Student, learning how to turn caffeine and chaos into clean code.  <br><br>🎓 Major in Computer Science & Engineering   <br>🌱 Currently exploring AI agents, Web Applications, Machine Learning<br>
+<p align="left">I'm Swathi, a Computer Science Student, learning how to turn caffeine and chaos into clean code.  <br><br>🎓 Major in Computer Science & Engineering   <br>🌱 Currently exploring Web Applications, Machine Learning<br>
 
 ###
 
